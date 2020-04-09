@@ -1,0 +1,56 @@
+{
+  "update_id": 105223408,
+  "callback_query": {
+    "id": "1207241078482617199",
+    "from": {
+      "id": 281082717,
+      "is_bot": false,
+      "first_name": "Ivan",
+      "last_name": "S",
+      "username": "ivnsmkv",
+      "language_code": "ru"
+    },
+    "message": {
+      "message_id": 2004,
+      "from": {
+        "id": 1077120736,
+        "is_bot": true,
+        "first_name": "LIFOOD",
+        "username": "LIFOODBOT"
+      },
+      "chat": {
+        "id": 281082717,
+        "first_name": "Ivan",
+        "last_name": "S",
+        "username": "ivnsmkv",
+        "type": "private"
+      },
+      "date": 1586118176,
+      "text": "МЕНЮ:",
+      "reply_markup": {
+        "inline_keyboard": [
+          [
+            {
+              "text": "Пиццы",
+              "callback_data": "Пиццы"
+            }
+          ],
+          [
+            {
+              "text": "Пироги",
+              "callback_data": "Пироги"
+            }
+          ],
+          [
+            {
+              "text": "Пиво",
+              "callback_data": "Пиво"
+            }
+          ]
+        ]
+      }
+    },
+    "chat_instance": "-1086839582073929596",
+    "data": "Пиццы"
+  }
+}
