@@ -1,9 +1,9 @@
 # flask_telegram_delivery_bot
 bot for delivery service
 
-This is 2 years old test project with a lot of SUPER BAD CODE, but is example of my work then/
-I've checked it today and wanna tell u how to run it./
-it's not dockerized, sry./
+This is 2 years old test project with a lot of SUPER BAD CODE, but is example of my work then\
+I've checked it today and wanna tell u how to run it.\
+it's not dockerized, sry.\
 - install requirements called libs.txt (updated)
 - create your database (in this case it's mysql) and enter uri to config.py
 - create bot with botfather
