@@ -8,7 +8,7 @@ it's not dockerized, sry./
 - create your database (in this case it's mysql) and enter uri to config.py
 - create bot with botfather
 - put your telegram bot token into app.py
-- set a webhook with url https://api.telegram.org/bot<token>/setWebhook?url=<your https url to this app>
+- set a webhook with url https://api.telegram.org/bot{token}/setWebhook?url={your https url to this app}
 - run python3 manage.py db upgrade (alembic)
 - run python3 main.py(running app, port 5000 default, u can use ngrok to make a step with a webhook)
 - manualy, or using sqlalchemy (or admin panel) create first Text object for saying 'hi' when /start 
